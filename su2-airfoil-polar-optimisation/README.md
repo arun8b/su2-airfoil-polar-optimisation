@@ -56,16 +56,6 @@ Plot a completed polar CSV:
 python scripts/plot_polar.py --input results/polar_template.csv --output figures/su2_polar.png
 ```
 
-## Evidence To Add Before Pinning This Repo
-
-- SU2 version and solver notes
-- mesh screenshots
-- baseline residual convergence
-- lift curve and drag polar
-- coefficient table
-- interpretation of stall/linear range limits if applicable
-- optimisation objective and constraints
-
-## Recruiter-Facing Summary
+## Summary
 
 Created a Python-automated SU2 CFD workflow for airfoil aerodynamic analysis, including angle-of-attack sweeps, coefficient extraction, polar plotting and a structured route toward adjoint-based design optimisation.
